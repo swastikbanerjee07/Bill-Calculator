@@ -32,7 +32,7 @@ class Calculate
 		System.out.println("Enter Total Bill Amount");
 		double bill=sc.nextDouble();
 
-		double diningbill=(dining/total)*bill;
+		double diningbill=(dining/total)*bill;//COMMON PAY
 
 
 		double sourjyadippaid=((Sourjyadip)/total)*bill;
@@ -50,7 +50,7 @@ class Calculate
 		System.out.println("Dhritiman : Rs "+((Nilarghadhritimanpaid/2)+diningbill/5));
 		System.out.println("Sourjyadip : Rs "+((sourjyadippaid)+diningbill/5));
 
-
+		//INCLUDES COMMON PAY
 
 }
 }
