@@ -3,6 +3,8 @@
 ![GUI](https://github.com/swastikbanerjee07/Bill-Calculator/blob/master/photo_2020-04-18_13-14-44.jpg)
 
 
+
+
 You need to install ```tkinter``` and ```python3``` in your computer before running the python code. For that, run the following commands in your terminal:
 ```
 sudo apt-get install python3
