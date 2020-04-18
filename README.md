@@ -1,4 +1,4 @@
-##Electricity Bill Splitter and Automatic Database Updater using tkinter and sqlite3
+## Electricity Bill Splitter and Automatic Database Updater using tkinter and sqlite3
 
 You need to install ```tkinter``` and ```python3``` in your computer before running the python code. For that, run the following commands in your terminal:
 ```
