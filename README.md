@@ -15,4 +15,4 @@ After that, everytime you just need to run the ```minor_project.py``` file, and 
          
 >* Incase the database file gets deleted ever in future, you just need to update the table in the code (```minor_project_db.py```) with values when last time bill was paid, and then run the file just once. Then again in future, this file is not needed to be run. The ```minor_project.py``` will automatically update the database with the current readings given as input.
 
-###### Note: Always create the database file with readings of the previous time bill was paid.
+###### Note: Always create the database file with readings of the previous time the bill was paid.
