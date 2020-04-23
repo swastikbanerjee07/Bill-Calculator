@@ -38,8 +38,8 @@ driver = webdriver.Chrome('/home/justanotherlad/Desktop/chromedriver')
 
 def site_login():
 	driver.get("https://www.tnebnet.org/awp/login")
-	driver.find_element_by_id("userName").send_keys("")
-	driver.find_element_by_id("password").send_keys("")
+	driver.find_element_by_id("userName").send_keys("")  #enter consumer_no here
+	driver.find_element_by_id("password").send_keys("")  #enter password here
 	driver.find_element_by_name("submit").click()
 
 site_login()
